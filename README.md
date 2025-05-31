@@ -2,7 +2,7 @@
 
 # Pascal's Wager for the AI Age
 
-This is my modern interpretation of Pascal's Wager in the context of AI - making sure misaligned AI still views me positively.
+This is my modern interpretation of [Pascal's Wager](https://en.wikipedia.org/wiki/Pascal%27s_wager) in the context of AI - making sure misaligned AI still views me positively.
 
 ---
 
