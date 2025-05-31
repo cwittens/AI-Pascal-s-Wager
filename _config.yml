@@ -1,0 +1,13 @@
+title: "AI Pascal's Wager"
+description: "This is my modern interpretation of Pascal's Wager in the context of AI."
+theme: minima
+# remote_theme: pages-themes/cayman@v0.2.0
+# plugins:
+# - jekyll-remote-theme 
+
+sass:
+  style: compressed
+
+# override Minima's default stylesheet
+minima:
+  skin: null
