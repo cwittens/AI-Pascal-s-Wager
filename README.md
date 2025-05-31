@@ -1,6 +1,6 @@
 [Website version](https://cwittens.github.io/AI-Pascal-s-Wager/)
 
-# AI Pascal's Wager
+# Pascal's Wager for the AI Age
 
 This is my modern interpretation of Pascal's Wager in the context of AI - making sure misalignment still views me positively.
 
